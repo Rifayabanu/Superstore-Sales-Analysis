@@ -18,7 +18,7 @@ Sales, Profit, Quantity, Discount – business metrics
 Ship Mode – delivery method
 
 **Data Preprocessing:**
--Converted date columns to datetime format
+- Converted date columns to datetime format
 - Handled missing values (e.g., Postal Code)
 - Created new features such as:
 - Year, Month, Quarter

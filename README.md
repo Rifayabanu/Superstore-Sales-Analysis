@@ -33,13 +33,16 @@ The following techniques were applied:
 - Handling missing values
 - Correcting data types
 - Removing inconsistencies
+  
 **2. Feature Engineering**
 - Extracted time-based features (Year, Month)
 - Calculated shipping duration
+  
 **3. Exploratory Data Analysis (EDA)**
 -Sales and profit aggregation
 - Group-by analysis (Category, Region, Customer, Product)
 - Trend analysis over time
+  
 **4. Data Visualization**
 - Line plots (sales trends)
 - Bar charts (category, region, sub-category performance)
